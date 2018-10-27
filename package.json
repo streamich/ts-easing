@@ -1,5 +1,5 @@
 {
-  "name": "ts-eaing",
+  "name": "ts-easing",
   "version": "0.1.0",
   "description": "Collection of easing functions in TypeScript",
   "main": "lib/index.js",
