@@ -14,6 +14,15 @@ f(1) -> 1
 ```
 
 
+## Usage
+
+```js
+import {easing} from 'ts-easing';
+
+console.log(easing.quadratic(0.5));
+```
+
+
 ## License
 
 [Unlicense](./LICENSE) &mdash; public domain.
