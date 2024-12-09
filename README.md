@@ -1,8 +1,8 @@
 # ts-easing
 
-Collection of easing function in TypeScript.
+A collection of animation easing function for TypeScript.
 
-All functions accept a number in range of `[0..1]`.
+All functions accept numbers in the range of `[0..1]`.
 
 All functions return a number, which is guaranteed to start at 0 and end at 1.
 
