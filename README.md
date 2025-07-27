@@ -25,4 +25,4 @@ console.log(easing.quadratic(0.5));
 
 ## License
 
-[Unlicense](./LICENSE) &mdash; public domain.
+[Unlicense](./LICENSE) and [CC0](https://creativecommons.org/public-domain/cc0/) &mdash; public domain.
